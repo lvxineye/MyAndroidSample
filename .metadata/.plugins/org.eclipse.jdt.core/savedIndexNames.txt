@@ -1,0 +1,2 @@
+INDEX VERSION 1.126+/home/alex/workspace/MyAndroidSample/.metadata/.plugins/org.eclipse.jdt.core
+477628695.index

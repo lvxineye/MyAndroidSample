@@ -1,0 +1,15 @@
+!SESSION 2012-02-17 11:19:28.597 -----------------------------------------------
+eclipse.buildId=M20110909-1335
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=zh_CN
+Command-line arguments:  -os linux -ws gtk -arch x86 -data /home/alex/workspace/MyAndroidSample
+
+!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2012-02-17 11:19:39.854
+!MESSAGE No search provider was registed. Tasks search is not available.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2012-02-17 11:21:21.056
+!MESSAGE Failed to load properties file for project 'mydroid'
+
+!ENTRY org.eclipse.ui 4 4 2012-02-17 11:22:14.930
+!MESSAGE Invalid preference page path: XML Syntax
