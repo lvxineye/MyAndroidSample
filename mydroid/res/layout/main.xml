@@ -4,9 +4,9 @@
     android:layout_height="fill_parent"
     android:orientation="vertical" >
 
-    <TextView
+    <com.alex.android.Drag2RefreshView
+        android:id="@+id/android:list"
         android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/hello" />
+        android:layout_height="fill_parent" />
 
 </LinearLayout>
