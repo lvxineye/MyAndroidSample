@@ -11,13 +11,15 @@
         android:label="@string/app_name" >
         <activity
             android:label="@string/app_name"
-            android:name=".MaindroidActivity" >
+            android:name=".DragToRefreshActivity" >
             <intent-filter >
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="AnimationActivity"></activity>
+        <activity android:name="AnotherActivity"></activity>
     </application>
 
 </manifest>

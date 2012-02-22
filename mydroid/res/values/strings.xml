@@ -8,4 +8,9 @@
     <string name="drag_to_refresh_tap_label">Tap to refresh...</string>
     <string name="drag_to_refresh_refreshing_label">Loading...</string>
 
+    <!-- animation activity -->
+    <string name="animation_other_btn">Open Other Windows</string>
+    <string name="animation_other_window_text">This is the another window</string>
+    <string name="menu_animation_activity">GoToAnimation</string>
+
 </resources>
